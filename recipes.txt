@@ -2,3 +2,5 @@ Welcome to recipes.
 
 
 kheer
+pasta
+chicken
